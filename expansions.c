@@ -110,3 +110,4 @@ int buffer_add(char *buffer, char *str_to_add)
 	buffer[length + i] = '\0';
 	return (length + i);
 }
+
