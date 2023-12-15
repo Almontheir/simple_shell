@@ -118,3 +118,4 @@ void sisifo(char *prompt, data_of_program *data)
 		}
 	}
 }
+

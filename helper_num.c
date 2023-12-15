@@ -71,6 +71,7 @@ int _atoi(char *s)
  *
  * @string: pointer to str origen.
  * @character: string with  chars to be counted
+ *
  * Return: int of string or 0.
  */
 int count_characters(char *string, char *character)
@@ -84,3 +85,4 @@ int count_characters(char *string, char *character)
 	}
 	return (counter);
 }
+

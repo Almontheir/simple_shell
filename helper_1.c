@@ -55,3 +55,4 @@ void free_array_of_pointers(char **array)
 		array = NULL;
 	}
 }
+
